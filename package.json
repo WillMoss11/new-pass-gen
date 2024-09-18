@@ -1,0 +1,14 @@
+{
+  "name": "new-pass-gen",
+  "version": "1.0.0",
+  "description": "Password generator to help create a password",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":{
+    "generate-pw": "./index.js"
+  },
+  "author": "William Moss",
+  "license": "MIT"
+}
